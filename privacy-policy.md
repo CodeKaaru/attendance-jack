@@ -1,3 +1,6 @@
+This page is now moved to a [new location](https://attendancejack.web.app/legal/privacy-policy.html). The privacy policy in the new location is modified to make the policy more elaborate and clear. Nothing is changed in terms of information collected by us.  
+This page will not be updated in the future. For latest updates, please refer the new policy page which is effective from 15 Feb 2022.
+
 ## Privacy Policy
 CodeKaaru built the Attendance Jack app as an Ad Supported app. This SERVICE is provided by CodeKaaru at no cost and is intended for use as is.
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
