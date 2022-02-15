@@ -1,4 +1,4 @@
-This page is now moved to a [new location](https://attendancejack.web.app/legal/terms-of-use.html). The terms of use page in the new location is modified to include links to terms of third party services used by us. Rest of the document is unchanged. 
+This page is now moved to a [new location](https://attendancejack.web.app/legal/terms-of-use.html). The terms of use page in the new location is modified to include links to terms of third party services used by us. Rest of the document is unchanged.  
 This page will not be updated in the future. For latest updates, please refer the new policy page which is effective from 15 Feb 2022.
 
 ## Terms of Use
