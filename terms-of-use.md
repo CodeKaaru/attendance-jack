@@ -1,3 +1,6 @@
+This page is now moved to a [new location](https://attendancejack.web.app/legal/terms-of-use.html). 
+This page will not be updated in the future. For latest updates, please refer the new policy page which is effective from 15 Feb 2022.
+
 ## Terms of Use
 By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages, or make derivative versions. The app itself, and all the trademarks, copyright, database rights and other intellectual property rights related to it, still belong to CodeKaaru.
 
